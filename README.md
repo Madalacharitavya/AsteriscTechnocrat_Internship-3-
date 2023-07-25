@@ -21,3 +21,4 @@ However, it's important to keep in mind that while resume builders can be helpfu
 When using a resume builder, ensure that the final document is error-free, well-organized, and effectively showcases your qualifications to increase your chances of landing interviews.
 
 *# output *#
+https://www.linkedin.com/feed/update/urn:li:activity:7089451500862640128/
