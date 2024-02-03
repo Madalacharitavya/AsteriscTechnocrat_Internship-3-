@@ -22,3 +22,11 @@ When using a resume builder, ensure that the final document is error-free, well-
 
 *# output *#
 https://www.linkedin.com/feed/update/urn:li:activity:7089451500862640128/
+
+## Contributing
+
+Contributions are welcome! Feel free to open issues or pull requests.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
